@@ -6,7 +6,9 @@ This is a simple registration and login system implemented in Python using file 
 Features:
 
  1.Registration of new users
+ 
  2.Login for existing users
+ 
  3.User data stored in a text file using file handling
  4.Usernames and passwords are separated by a comma in the text file.
  
